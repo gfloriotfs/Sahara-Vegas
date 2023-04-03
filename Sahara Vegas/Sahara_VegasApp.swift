@@ -11,7 +11,7 @@ import SwiftUI
 struct Sahara_VegasApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ViewController()
         }
     }
 }
