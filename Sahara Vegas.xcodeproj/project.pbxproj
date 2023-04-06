@@ -7,22 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		47135DD029DE323B00BF2942 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47135DCF29DE323B00BF2942 /* ContentView.swift */; };
 		4729064529D4BC75003A4165 /* Sahara_VegasApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4729064429D4BC75003A4165 /* Sahara_VegasApp.swift */; };
 		4729064929D4BC76003A4165 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4729064829D4BC76003A4165 /* Assets.xcassets */; };
 		4729064C29D4BC76003A4165 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4729064B29D4BC76003A4165 /* Preview Assets.xcassets */; };
-		47871E9229D896A90050807C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47871E9129D896A90050807C /* ViewController.swift */; };
 		47CBF34929D71791004A1690 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47CBF34829D71791004A1690 /* Main.storyboard */; };
 		47CBF34C29D717B6004A1690 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47CBF34B29D717B6004A1690 /* AppDelegate.swift */; };
 		47CBF35429D728A2004A1690 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47CBF35329D728A2004A1690 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		47135DCF29DE323B00BF2942 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ContentView.swift; path = ../../No/No/ContentView.swift; sourceTree = "<group>"; };
 		4729064129D4BC75003A4165 /* Sahara Vegas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Sahara Vegas.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4729064429D4BC75003A4165 /* Sahara_VegasApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sahara_VegasApp.swift; sourceTree = "<group>"; };
 		4729064829D4BC76003A4165 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4729064B29D4BC76003A4165 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4729064D29D4BC76003A4165 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		47871E9129D896A90050807C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		47CBF34829D71791004A1690 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		47CBF34B29D717B6004A1690 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		47CBF35329D728A2004A1690 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -59,8 +59,8 @@
 			isa = PBXGroup;
 			children = (
 				4729064429D4BC75003A4165 /* Sahara_VegasApp.swift */,
+				47135DCF29DE323B00BF2942 /* ContentView.swift */,
 				47CBF34829D71791004A1690 /* Main.storyboard */,
-				47871E9129D896A90050807C /* ViewController.swift */,
 				47CBF35329D728A2004A1690 /* LaunchScreen.storyboard */,
 				47CBF34B29D717B6004A1690 /* AppDelegate.swift */,
 				4729064829D4BC76003A4165 /* Assets.xcassets */,
@@ -150,7 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				47CBF34C29D717B6004A1690 /* AppDelegate.swift in Sources */,
-				47871E9229D896A90050807C /* ViewController.swift in Sources */,
+				47135DD029DE323B00BF2942 /* ContentView.swift in Sources */,
 				4729064529D4BC75003A4165 /* Sahara_VegasApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

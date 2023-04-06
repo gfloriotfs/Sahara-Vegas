@@ -9,9 +9,7 @@ import SwiftUI
 
 @main
 struct Sahara_VegasApp: App {
-    var body: some Scene {
-        WindowGroup {
-            ViewController()
-        }
+    var body: some UIViewController {
+        ContentView()
     }
 }
